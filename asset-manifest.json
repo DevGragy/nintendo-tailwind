@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nintendo-tailwind/static/css/main.6c9021cf.css",
+    "main.js": "/nintendo-tailwind/static/js/main.e3b7251d.js",
+    "static/media/video01.mp4": "/nintendo-tailwind/static/media/video01.2c0d1e851f6e441c81b9.mp4",
+    "static/media/video02.mp4": "/nintendo-tailwind/static/media/video02.38135eaa643029c316c3.mp4",
+    "static/media/hero.jpg": "/nintendo-tailwind/static/media/hero.614db3666e61829fc4d6.jpg",
+    "static/media/character-l.png": "/nintendo-tailwind/static/media/character-l.ade9fead255512ebda34.png",
+    "static/media/activity_img3.png": "/nintendo-tailwind/static/media/activity_img3.8999f1b1e631e34323a7.png",
+    "static/media/coin.gif": "/nintendo-tailwind/static/media/coin.a2a484a9907b0a3b4488.gif",
+    "static/media/pattern-characters-red.png": "/nintendo-tailwind/static/media/pattern-characters-red.624f6b4a0161e1c72001.png",
+    "static/media/logo.png": "/nintendo-tailwind/static/media/logo.a4766ba2c68501acaabc.png",
+    "index.html": "/nintendo-tailwind/index.html",
+    "main.6c9021cf.css.map": "/nintendo-tailwind/static/css/main.6c9021cf.css.map",
+    "main.e3b7251d.js.map": "/nintendo-tailwind/static/js/main.e3b7251d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9021cf.css",
+    "static/js/main.e3b7251d.js"
+  ]
+}
